@@ -9,10 +9,10 @@
        [1.2 Energie estimée sur une source](#energie-estimee-sur-une-source)\
        [1.3 Séparation de plusieurs sources](#Separation-de-plusieurs-sources)\
 [2. Localisation par la méthode des sous-espaces](#localisation-par-la-methode-des-sous-espaces)\
-       [2.1 Principes](#principes)\
+       [2.1 Principes](#principes)\
        [2.2 Estimation visuelle du nombre de sources](#estimation-visuelle-du-nombre-de-sources)\
        [2.3 Comparaison avec la méthode CAPON](#comparaison-avec-la-methode-capon)\
-[3. On ne s’entend plus !](#decodage-mmse)
+[3. On ne s’entend plus !](#on-ne-s’entend-plus-!)
 
 
 ## Localisation par filtrage spatial
