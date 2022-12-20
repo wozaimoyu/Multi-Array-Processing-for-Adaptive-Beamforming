@@ -12,7 +12,7 @@
        [2.1 Principes](#principes)\
        [2.2 Estimation visuelle du nombre de sources](#estimation-visuelle-du-nombre-de-sources)\
        [2.3 Comparaison avec la méthode CAPON](#comparaison-avec-la-methode-capon)\
-[3. On ne s’entend plus !](#on-ne-s-entend-plus-!)
+[3. Application](#application)
 
 
 ## Localisation par filtrage spatial
@@ -98,8 +98,8 @@ La prochaine figure compare les méthodes MUSIC et CAPON sur leur capacité à s
 
 
 
-## On ne s entend plus !
-La stratégie mise en œuvre se déroule en quatre temps:
+## Application
+Pour isoler de multiples conversations enregistrées sur divers micro, une stratégie en quatre temps est mise en œuvre:
 1. estimation de la variance du bruit
 2. estimation du nombre de sources
 3. estimation des directions
