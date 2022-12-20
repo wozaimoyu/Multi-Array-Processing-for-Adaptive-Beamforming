@@ -8,4 +8,4 @@ Trois scripts sont fournis et sont accessibles depuis le dossier [src](./src):
 3. [on_ne_s_entend_plus](./src/on_ne_s_entend_plus.m): applique les algorithmes testés sur des données réelles pour isoler des conversations d'une même pièce captées par plusieurs micros.
 
 ## Documentation
-Le [rapport](./doc/rapport.pdf) explique en détails les implémentations réalisées et analyse les résultats obtenus par les trois scripts. 
+Le [rapport](./doc/rapport.md) explique en détails les implémentations réalisées et analyse les résultats obtenus par les trois scripts. 
